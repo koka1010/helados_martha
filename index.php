@@ -28,7 +28,7 @@
     <nav class="navigation">
       <ul>
         <li><a href="#">Inicio</a></li>
-        <li><a href="https://www.instagram.com/mazosimon/">Quienes somos</a></li>
+        <li><a href="#footer">Quienes somos</a></li>
         <li><a href="#">Proyecto</a></li>
         <li><a href="views/login.php">Inicio de sesión</a></li>
       </ul>
@@ -57,7 +57,7 @@
     </section>
   </main>
   <footer>
-  <div class="footer">
+  <div class="footer" id="footer">
         <h1>HELADOS MARTHA</h1>
         <p>DIR: Cra. 11 #16-2 a 16-62, Barbosa, Antioquia</p>
         <p>TEL:604-4065693</p>
